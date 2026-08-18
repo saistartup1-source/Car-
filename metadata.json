@@ -1,0 +1,8 @@
+{
+  "name": "Remix CarForSell",
+  "description": "A premium luxury automotive marketplace for selling and buying verified used cars and vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
